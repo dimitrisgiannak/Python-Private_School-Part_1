@@ -1,5 +1,7 @@
 # Python-Private_School-Part_1
 
+Coding Bootcamp project
+
                     ---Design of a Private School Structure---
 
 # Assume that there are four (4) courses in programming languages: C#, Java, JavaScript and Python.
