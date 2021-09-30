@@ -10,11 +10,6 @@ Coding Bootcamp project
   scheme or a Part Time, a 24 weeks afternoon classes scheme.
   For example, the following courses might exist:
 
-Course Title | Course Language | Course Description | Course Type
-             |                 |                    |
-CB13FTPY     | Python  Python  | 12 weeks           | Full Time
-CB13PTPY     | Python  Python  | 24 weeks           | Part Time
-
 # Also, there are Trainers under each course with the following details, 
 * First Name
 * Last Name
