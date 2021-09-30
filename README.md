@@ -47,3 +47,7 @@ Coding Bootcamp project
 7 All the assignments per course 
 8 All the assignments per student per course
 9 A list of students that belong to more than one courses
+
+# How to run
+
+* Open main.py with command line or another tool like VSC
