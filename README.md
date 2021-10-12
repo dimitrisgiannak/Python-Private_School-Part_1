@@ -38,15 +38,15 @@ Coding Bootcamp project
 # If the user decides not to type any data, the program should use dummy data
 
 # Also, your program must be able to output the following:
-1 A collection of all the students 
-2 A collection of all the trainers 
-3 A collection of all the assignments 
-4 A collection of all the courses 
-5 All the students per course 
-6 All the trainers per course 
-7 All the assignments per course 
-8 All the assignments per student per course
-9 A list of students that belong to more than one courses
+* A collection of all the students 
+* A collection of all the trainers 
+* A collection of all the assignments 
+* A collection of all the courses 
+* All the students per course 
+* All the trainers per course 
+* All the assignments per course 
+* All the assignments per student per course
+* A list of students that belong to more than one courses
 
 # How to run
 
